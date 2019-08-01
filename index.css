@@ -1,0 +1,40 @@
+body {
+  background:url(../img/fondo.png);
+
+}
+
+.col {
+
+
+}
+.logo {
+  margin-top:2em;
+  border-radius:1em;
+  
+}
+h4 {
+  font-family: Impact, Haettenschweiler, 'Arial Narrow Bold', sans-serif;
+  color: white;
+  margin-left: -3em;
+}
+a {
+  margin-top: 1em;
+}
+.perfil { 
+  background-color: blanchedalmond;
+  border-radius: 1em;
+
+}
+.imgperfil {
+  margin-top: 1em;
+}
+.articulo {
+  
+  background-color: blanchedalmond;
+  border-radius: 1em;
+   
+
+}
+.chip {
+  margin-top: 2em;
+}
